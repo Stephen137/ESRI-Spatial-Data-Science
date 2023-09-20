@@ -1,2 +1,2 @@
-# Spatial-Data-Science: The New Frontier in Analytics
+# Spatial Data Science: The New Frontier in Analytics
 My interactions with the Esri MOOC - Spatial Data Science: The New Frontier in Analytics, which explores the application of spatial data science to uncover hidden patterns and improve predictive modeling. I'll be working with powerful analytical tools in Esri's ArcGIS software and will learn how to integrate popular open data science packages into my analyses.
